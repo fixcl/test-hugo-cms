@@ -1,7 +1,7 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+languageCode = "es-CL"
+languageLang = "es"
+title = "Imágenes En Conflicto"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
