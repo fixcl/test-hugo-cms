@@ -4,7 +4,7 @@ date: 2019-11-28T14:29:44.606Z
 description: ¿Qué es el estado de sitio?
 image: /img/bandera-negra.png
 ---
-**Definición**
+## **Definición**
 
 La Ley Orgánica Constitucional de los Estados de Excepción, en su artículo 3, afirma que “durante el estado de sitio, las facultades conferidas al Presidente de la República podrán ser delegadas, total o parcialmente, en los Intendentes, Gobernadores o jefes de la Defensa Nacional que él designe”
 
@@ -12,15 +12,11 @@ Además, en el artículo 15 agrega que: “(…) Cesará la competencia de los t
 
 Así mismo, el artículo 16 confirma el hecho que “La medida de traslado sólo podrá cumplirse en localidades urbanas. Entiéndese por localidad urbana aquella que se encuentra dentro del radio urbano en que tenga su asiento una municipalidad”
 
+## **Comentarios**
 
+Acá la situación es diferente a las del [estado de emergencia](https://dreamy-almeida-0af5e0.netlify.com/glosario/estado-de-emergencia/) o toque de queda.
 
-**Comentarios**
-
-Acá la situación es diferente a las del estado de emergencia o toque de queda.
-
-
-
-**Versión simplificada**
+## **Versión simplificada**
 
 ¿Qué es el estado de sitio?
 
@@ -28,8 +24,6 @@ Es una situación excepcional donde el Presidente delega a los Intendentes, Gobe
 
 El estado de sitio permite suspender o restringir el ejercicio del derecho de reunión y restringir el ejercicio de las libertades de locomoción, de información y de opinión.
 
-
-
-**Fuente**
+## **Fuente**
 
 Ley Orgánica Constitucional de Chile
